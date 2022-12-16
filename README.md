@@ -16,6 +16,8 @@ Enable and configure in `Preferences` > `Tools` > `ktlint`.
 
 Adding more features over time: [TODO.md](TODO.md)
 
+
+
 ## Installation
 
 - Using IDE built-in plugin system:
